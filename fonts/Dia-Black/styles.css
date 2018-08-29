@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Dia-Black';
+  src: url('Dia-Black.eot?#iefix') format('embedded-opentype'),  url('Dia-Black.otf')  format('opentype'),
+	     url('Dia-Black.woff') format('woff'), url('Dia-Black.ttf')  format('truetype'), url('Dia-Black.svg#Dia-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
